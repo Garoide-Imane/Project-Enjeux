@@ -1,18 +1,18 @@
 # Project information
 site_name: Reciprocal n-body Collision Avoidance
-site_author: Abdellatif BELMADY
-edit_uri: https://github.com/abdellatif-belmady/R-Project/tree/main/docs
+site_author: Imane GAROIDE
+edit_uri: https://github.com/Garoide-Imane/Project-Enjeux/tree/main/docs
 site_description: >-
   Pour acquérir un sens de la pratique, et s’ouvrir à l’environnement professionnel, nous sommes amenés à rédiger une note de synthèse de notre traitement du Heetch dataset incluant la démarche, les principaux résultats et les conclusions.
   Dans ce cadre-là, vient ce rapport auquel nous allons synthétiser le travail fait.
 
 
 # Repository
-repo_name: abdellatif-belmady/Reciprocal-n-body-Collision-Avoidance
-repo_url: https://github.com/abdellatif-belmady/Reciprocal-n-body-Collision-Avoidance
+repo_name: Garoide-Imane/Project-Enjeux
+repo_url: https://github.com/Garoide-Imane/Project-Enjeux
 
 # Copyright
-copyright: Copyright &copy; 2022 - 2023 Abdellatif BELMADY
+copyright: Copyright &copy; 2022 - 2023 Imane GAROIDE
 
 # Configuration
 theme:
@@ -121,18 +121,18 @@ markdown_extensions:
 
 
 # Customization
-extra:
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/abdellatif-belmady
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/abdellatif-belmady-ab999a133/
-    - icon: fontawesome/brands/facebook
-      link: https://www.facebook.com/abdellatif.belmady
-    - icon: fontawesome/brands/youtube
-      link: https://www.youtube.com/@otherways8368/featured
-    - icon: fontawesome/brands/instagram
-      link: https://www.instagram.com/abdellatifbelmady/
+# extra:
+#   social:
+#     - icon: fontawesome/brands/github
+#       link: https://github.com/abdellatif-belmady
+#     - icon: fontawesome/brands/linkedin
+#       link: https://www.linkedin.com/in/abdellatif-belmady-ab999a133/
+#     - icon: fontawesome/brands/facebook
+#       link: https://www.facebook.com/abdellatif.belmady
+#     - icon: fontawesome/brands/youtube
+#       link: https://www.youtube.com/@otherways8368/featured
+#     - icon: fontawesome/brands/instagram
+#       link: https://www.instagram.com/abdellatifbelmady/
      
 extra_css:
   - stylesheets/extra.css
